@@ -1,3 +1,9 @@
+
+Teknolojiler:
+- Uygulama Mimarisi / Bloc Pattern
+- Shared Preferences
+- MySQL
+
 Uygulama Mimarisi / Bloc Pattern:
 
 Bloc Pattern (Business Logic Component Pattern), Flutter'da yaygın olarak kullanılan bir mimari desenidir. Bu desen, iş mantığını arayüzden ayırarak uygulamanın daha düzenli ve bakımı kolay hale gelmesini sağlar.
